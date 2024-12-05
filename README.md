@@ -1,8 +1,7 @@
 # ChatGPT镜像网站大全：2024国内推荐（支持GPT-4，无需翻墙，免费体验）
 
 > **最后更新：2024/12/05**  
-> **关键词：ChatGPT镜像网站、GPT-4镜像、无需翻墙、国内免费体验**  
-> **作者：Your Name**
+> **作者：loursa**
 
 **全面整理 ChatGPT 镜像网站资源！无需翻墙，支持 GPT-4 和 Claude3，还能免费试用！**  
 本指南为您推荐国内优质的 **ChatGPT镜像网站**，并提供详细的对比和使用教程，助您快速找到最适合的站点。
@@ -54,10 +53,10 @@
 
 | **镜像站名称**         | **地址**                        | **支持版本**         | **免费额度**           | **独特功能**              | **访问稳定性** |
 |----------------------|--------------------------------|---------------------|------------------------|--------------------------|----------------|
-| **蛇语 AI**         | [snakegpt.work](https://snakegpt.work) | GPT-4, Claude3         | 每小时 80 次             | 支持 MidJourney 绘图       | ⭐⭐⭐⭐⭐       |
-| **GPT 猫中文站**     | [gptcat.net](https://gptcat.net)        | GPT-4, GPT-4o          | 每天 20 次                | 高级语音对话支持            | ⭐⭐⭐⭐        |
-| **熊猫 GPT**         | [ai-panda.xyz](https://ai-panda.xyz)    | GPT-4, GPT-3.5         | 无限                      | 提供 API 调用，开发者友好   | ⭐⭐⭐⭐        |
-| **狗狗 GPT**         | [gptdog.online](https://gptdog.online)  | GPT-3.5                | 无限                      | 界面简单，新手友好          | ⭐⭐⭐         |
+| **蛇语 AI**         | [snakegpt.work](https://snakegpt.work) | GPT-4, Claude3         | 5次             | 支持 MidJourney 绘图       | ⭐⭐⭐⭐⭐       |
+| **GPT 猫中文站**     | [gptcat.net](https://gptcat.net)        | GPT-4, GPT-4o          | 10次                | 高级语音对话支持            | ⭐⭐⭐⭐        |
+| **熊猫 GPT**         | [ai-panda.xyz](https://ai-panda.xyz)    | GPT-4, GPT-3.5         | 无                      | 提供 API 调用，开发者友好   | ⭐⭐⭐⭐        |
+| **狗狗 GPT**         | [gptdog.online](https://gptdog.online)  | GPT-3.5                | 无                     | 界面简单，新手友好          | ⭐⭐⭐         |
 
 ### 🔍 推荐理由：
 - **`snakegpt.work`**：功能最全，支持 AI 绘图，适合高级用户。
